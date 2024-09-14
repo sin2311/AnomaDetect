@@ -23,7 +23,7 @@ Matplotlib (Optional for visualizations)
 Pickle (for saving/loading models)
 
 Steps
-Clone the repository: 
+Clone the repository: https://github.com/sin2311/AnomaDetect
 
 Train the model: Run the training script to train the anomaly detection model:
 python model_training.py
